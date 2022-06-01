@@ -5,6 +5,8 @@
  */
 package ca.sheridancollege.week2.softwarefundamentals;
 
+///// STEP 1 COMMENTS //////////
+
 /**
  * A class to model Card Objects.
  * Created in Week 2 for the cloning repository demo

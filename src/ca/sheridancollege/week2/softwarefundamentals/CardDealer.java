@@ -5,6 +5,8 @@
  */
 package ca.sheridancollege.week2.softwarefundamentals;
 
+////// STEP 1 COMMENTS ////////
+
 /**
  * The class where we create Cards
  * @author dancye, 2019
