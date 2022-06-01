@@ -22,6 +22,8 @@ public class CardDealer
         // 3. Create an object of Card class in CardDealer.java file - Mohammed Khan (991331378)
         Card myCard = new Card("hearts", 2);
         
+        // 6. Create one more object of Card class - Mohammed Khan (991331378)
+        Card myCard2 = new Card("diamonds", 3);
         
         // 5. Edit your code from GitHub to print the card suit 
         System.out.println("Suit: " + myCard.getSuit());
