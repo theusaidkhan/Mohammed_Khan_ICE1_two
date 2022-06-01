@@ -23,5 +23,8 @@ public class CardDealer
         Card myCard = new Card("hearts", 2);
         
         
+        // 5. Edit your code from GitHub to print the card suit 
+        System.out.println("Suit: " + myCard.getSuit());
+        System.out.println("Value: " + myCard.getValue());
     }
 }
