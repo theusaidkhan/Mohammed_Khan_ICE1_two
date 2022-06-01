@@ -17,5 +17,11 @@ public class CardDealer
     {
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
+        
+        
+        // 3. Create an object of Card class in CardDealer.java file - Mohammed Khan (991331378)
+        Card myCard = new Card("hearts", 2);
+        
+        
     }
 }
